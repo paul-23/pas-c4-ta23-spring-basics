@@ -18,21 +18,21 @@
   
   >![image](https://user-images.githubusercontent.com/62121921/231833604-1b106cc2-57a3-46ee-a240-a2067925cf36.png)
 
-- Consulta principal (localhost:8080)
+   - Consulta principal (localhost:8080)
 
-  >![image](https://user-images.githubusercontent.com/62121921/231832784-0860310f-e7c9-4524-a999-2f0272ab0211.png)
+     >![image](https://user-images.githubusercontent.com/62121921/231832784-0860310f-e7c9-4524-a999-2f0272ab0211.png)
 
-- Consulta saludo (localhost:8080/saludo)
+   - Consulta saludo (localhost:8080/saludo)
 
-  >![image](https://user-images.githubusercontent.com/62121921/231834085-ac633d93-f29e-4aa6-9b32-5d961c6aa007.png)
+     >![image](https://user-images.githubusercontent.com/62121921/231834085-ac633d93-f29e-4aa6-9b32-5d961c6aa007.png)
 
-- Consulta saludar usuario DEFAULT (localhost:8080/saludar)
+   - Consulta saludar usuario DEFAULT (localhost:8080/saludar)
 
-  >![image](https://user-images.githubusercontent.com/62121921/231834464-f25b7dd4-f8f5-4a2d-9877-c9b22296cebf.png)
+     >![image](https://user-images.githubusercontent.com/62121921/231834464-f25b7dd4-f8f5-4a2d-9877-c9b22296cebf.png)
 
-- Consulta saludar usuario parámetros (localhost:8080/saludar?nombre={nombre})
+   - Consulta saludar usuario parámetros (localhost:8080/saludar?nombre={nombre})
 
-  >![image](https://user-images.githubusercontent.com/62121921/231834849-797668f3-ec03-4291-8683-06294fe6d30b.png)
+     >![image](https://user-images.githubusercontent.com/62121921/231834849-797668f3-ec03-4291-8683-06294fe6d30b.png)
 
 ---
 
